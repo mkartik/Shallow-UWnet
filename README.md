@@ -13,3 +13,5 @@ python training.py
 ```
 python test.py
 ```
+## Pretrained Model
+The pretrained Shallow-UWnet model is available at [model.ckpt](https://drive.google.com/file/d/1yVw42cp_y2CdKU00qH4Xi_lvyeZ5tKAZ/view?usp=sharing)
